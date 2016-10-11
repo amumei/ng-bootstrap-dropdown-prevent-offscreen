@@ -1,0 +1,22 @@
+{
+  "name": "ng-bootstrap-dropdown-prevent-offscreen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amumei/ng-bootstrap-dropdown-prevent-offscreen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amumei/ng-bootstrap-dropdown-prevent-offscreen/issues"
+  },
+  "homepage": "https://github.com/amumei/ng-bootstrap-dropdown-prevent-offscreen#readme",
+  "dependencies": {
+    "angular": "^1.2.31"
+  }
+}
